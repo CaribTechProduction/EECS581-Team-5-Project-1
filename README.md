@@ -1,2 +1,3 @@
-# EECS581-Team-5-Project-1
-Team 5 Project 1 Repository for EECS581 2024 Fall 
+# EECS 581 Fall 2024 Project Repository
+# Team 5 - Kemar Wilson, Yadhunath Tharakeswaran, Jawad Ahsan, Dev Patel, Sanketh Reddy.
+
